@@ -21,4 +21,7 @@
     border-radius: 10px;
   }
   
-
+#result {
+    color: green;
+    font-family: courier;
+}
